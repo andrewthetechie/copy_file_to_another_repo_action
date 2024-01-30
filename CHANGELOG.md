@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/andrewthetechie/copy_file_to_another_repo_action/compare/v0.1.0...v0.1.1) (2024-01-30)
+
+
+### Bug Fixes
+
+* update action name ([dc84177](https://github.com/andrewthetechie/copy_file_to_another_repo_action/commit/dc84177c87839c8eb3e321c850a5766885a9a0c4))
+
 ## 0.1.0 (2024-01-30)
 
 
