@@ -36,8 +36,8 @@ inputs:
     required: false
     default: github.com
 runs:
-  using: 'docker'
-  image: 'Dockerfile'
+  using: "docker"
+  image: "docker://ghcr.io/andrewthetechie/copy_file_to_another_repo_action:v0.1.0" # x-release-please-version
   args:
     - ${{ inputs.source-file }}
     - ${{ inputs.destination-repo }}
@@ -51,4 +51,4 @@ runs:
     - ${{ inputs.use-rsync }}
 branding:
   icon: 'git-commit'
-  color: 'green'
+  color: 'blue'
