@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/andrewthetechie/copy_file_to_another_repo_action/compare/v0.1.1...v0.1.2) (2024-01-31)
+
+
+### Bug Fixes
+
+* add a git pull before pushing ([6e1e234](https://github.com/andrewthetechie/copy_file_to_another_repo_action/commit/6e1e234e26eaaad9e6ff06f87bbd3f0fbea333c4))
+
 ## [0.1.1](https://github.com/andrewthetechie/copy_file_to_another_repo_action/compare/v0.1.0...v0.1.1) (2024-01-30)
 
 
